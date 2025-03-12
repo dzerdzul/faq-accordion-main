@@ -28,7 +28,7 @@ body {
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
-    background: var(--Light-pink) url("../assets/images/background-pattern-desktop.svg") no-repeat left -202px top / auto 538px;
+    background: var(--Light-pink) url("../assets/images/background-pattern-desktop.svg") no-repeat left top / auto 538px;
     @media screen and (max-width: 500px) {
         background: var(--Light-pink) url("../assets/images/background-pattern-mobile.svg") no-repeat center top / auto 538px;
     }
